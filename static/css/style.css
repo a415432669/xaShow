@@ -58,7 +58,7 @@ html,body,#app{
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 10;
+    z-index: 100000;
     box-shadow: 0 0.05rem 0.05rem #ccc;
   }
   .header>.left,.header>.right{
